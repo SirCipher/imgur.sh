@@ -1,3 +1,5 @@
+Forked for a personal project. Used to capture the screen of an Android emulator once it has started on a CI instance. 
+
 Bart's Imgur uploader bash script
 =================================
 
